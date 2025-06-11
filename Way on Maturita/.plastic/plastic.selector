@@ -1,0 +1,4 @@
+repository "Way on Maturita@fussekcz@cloud"
+  path "/"
+    br "/main"
+    co "/main"
